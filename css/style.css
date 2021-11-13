@@ -1,0 +1,53 @@
+
+
+#demotaskid {
+    background: #F9FAFB;
+}
+
+.form-table input#name{
+    padding: 10px 10px;
+    border-color: #c1c1c1;
+}
+
+table>tr>td:first-child{
+    margin: 0px;
+    padding: 0px;
+}
+
+::-webkit-input-placeholder {
+    font-style: italic;
+ }
+ :-moz-placeholder {
+    font-style: italic;  
+ }
+ ::-moz-placeholder {
+    font-style: italic;  
+ }
+ :-ms-input-placeholder {  
+    font-style: italic; 
+ }
+
+.btn {
+    color: #fff;
+    border: none;
+    background-color: #DE5819;
+    cursor: pointer;
+    font-weight: 500;
+    border-radius: 5px;
+    transition: all ease-in-out 0.5s;
+}
+
+.btn:hover {
+    background-color: #c7480e;
+}
+
+.custom-btn {
+    padding: 5px 15px;
+}
+
+.custom-submit {
+    padding: 12px 20px;
+    right: 48px;
+    position: absolute;
+    margin: -25px;
+}
